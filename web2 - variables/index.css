@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(2, 40, 61);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-weight: 500;
+}
+#p1,#p2,#p3{
+    color: rgb(166, 170, 233);
+}
+
+#p4,#p5,#p6{
+    color: aliceblue;
+    text-shadow: 2px 2px 4px black;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 2px 3px 4px blue ;
+}

@@ -1,0 +1,16 @@
+/* Overall responsibility for the appearance of the webpage */
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em; 
+    /* 2em means 200% */
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
