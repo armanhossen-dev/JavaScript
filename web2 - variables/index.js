@@ -92,7 +92,11 @@ let userAge = 22;
 
 // now i will go to html and add some html eliments
 //lets change the text content of an html eliment
+
+// document.getElementById("p1").textContent = fullName;
 document.getElementById("p1").textContent = fullName;
+// document.getElementById("p1").textContent = "fullName";
+
 // document -> web page
 //geting element by its id -> any tag with id that i am calling
 //in "" i will write the id
@@ -108,4 +112,19 @@ document.getElementById("p5").textContent =    `Your age is ${userAge}`;
 document.getElementById("p6").textContent =    `Enrolled : ${isStudent}`;
 
 
-/// strings, numbers, boolean
+// datatypes normal: strings, numbers, boolean
+
+
+// practice:
+document.getElementById("p7").textContent = `Hi this is me after 7 month practicing the js also learning it agian. wish me good luck! 😊`;
+
+let a = 10;
+let b = 20;
+let c = 30;
+
+document.getElementById("p8").textContent = `lets show some value of variable `;
+document.getElementById("p9").textContent = `a =  ${a},b = ${b}, c = ${c}`;
+
+document.getElementById("p10").innerHTML = `a = ${a},<br>
+                                            b = ${b},<br>
+                                            c  = ${c}.`;
