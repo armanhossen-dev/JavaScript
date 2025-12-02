@@ -1,0 +1,11 @@
+following here: https://youtu.be/lfmg-EJ8gm4?si=J0SGZtYG_OiekMCl
+
+how to do:
+- download vs code, install it
+- create a new project folder 
+- website (html -> Structure,
+           css  -> Style,
+           js ->   action
+           file)
+
+install liveserver extension in vs code
